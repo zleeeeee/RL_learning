@@ -9,6 +9,4 @@ git commit -m "first commit" //把文件提交到仓库
 git remote add origin https://github.com/zleeeeee/RL_learning.git//关联远程仓库
 git push -u origin master //将本地主分支推到远程(如无远程主分支则创建，用于初始化远程仓库)
 git push origin master //将本地主分支推到远程主分支
-————————————————
-版权声明：本文为CSDN博主「疯跑蜗牛」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
-原文链接：https://blog.csdn.net/hxf0663/article/details/79527453
+
